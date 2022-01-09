@@ -1,0 +1,19 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "💡 <Refactoring 리팩터링 2판>을 읽으며 정리한 글",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyi47/Refactoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyi47/Refactoring/issues"
+  },
+  "homepage": "https://github.com/soyi47/Refactoring#readme"
+}
